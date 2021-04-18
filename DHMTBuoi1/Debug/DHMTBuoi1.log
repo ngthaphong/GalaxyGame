@@ -1,0 +1,31 @@
+﻿  DHMTBuoi1.cpp
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(310,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(310,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(328,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(328,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(350,23): warning C4018: '<': signed/unsigned mismatch
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(382,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(382,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(382,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(453,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(453,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(453,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(459,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(459,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(459,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(460,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(460,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(460,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(465,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(465,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(465,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(466,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(466,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(466,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(540,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(541,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(563,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Tailieu\DHMT\GameGalaxy\DHMTBuoi1\DHMTBuoi1.cpp(564,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DHMTBuoi1.vcxproj -> D:\Tailieu\DHMT\GameGalaxy\Debug\DHMTBuoi1.exe
